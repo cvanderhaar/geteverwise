@@ -1,0 +1,11 @@
+.container {
+  width: 98%;
+  background: white;
+  position: relative;
+  padding: 5px;
+}
+
+.bar {
+  height: 25px;
+  background: red;
+}
